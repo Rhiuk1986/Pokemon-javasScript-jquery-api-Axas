@@ -1,0 +1,185 @@
+body{
+    background-image: url("fondo.png");
+    
+}
+.pikachu{
+width: 100px;
+height: auto;
+}
+.titulo-poke{
+    width: 400px;
+    height: auto;
+}
+.poke{
+    width: 100px;
+    height: 100px;
+    background-color: bisque;
+    border-radius: 5px;
+    margin: 5px;
+}
+#pokedex{
+    width: 500px;
+    height: 350px;
+    background-image: url("pokedex.png");
+    background-size: cover;
+    position: fixed;
+    top: 50px;
+    right: 20px;
+}
+/*.info{
+    width: 80%;
+    height: 75%;
+    margin: 0px auto;
+    margin-top: 10%;
+    margin-bottom: 15%;
+    padding-top: 20px;
+}*/
+#pokemones{
+    width: 70%;
+    height: auto;
+
+}
+
+/*ul{
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: none;
+    margin: auto;
+
+}*/
+.tipo1{
+    width: 70px;
+    height: 21px;
+    border-radius: 5px;
+    border: solid 2px white;
+    text-align: center;
+    padding-top: 2px;
+    position: fixed;
+    top: 350px;
+    right: 144px;
+    font-size: 14px;
+    list-style-type: none;
+    color: white;
+    font-weight: bold;
+    display: inline;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.tipo2{
+    width: 70px;
+    height: 21px;
+    border-radius: 5px;
+    border: solid 2px white;
+    text-align: center;
+    padding-top: 2px;
+    position: fixed;
+    top: 350px;
+    right: 58px;
+    font-size: 14px;
+    list-style-type: none;
+    color: white;
+    font-weight: bold;
+    display: inline;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+/*span{
+    font-size: large;
+    font-weight: bold;
+    color: orange;
+}*/
+.altura{
+    position:fixed;
+    top: 326px;
+    right: 385px;
+    margin-left: 30px;
+    margin-top: 20px;
+    text-align: left;
+    color: white;
+    font-size: 14px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.peso{
+    position:fixed;
+    top: 340px;
+    right: 385px;
+    margin-left: 30px;
+    margin-top: 20px;
+    text-align: left;
+    color: white;
+    font-size: 14px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.poke-ficha{
+    position: fixed;
+    top: 157px;
+    right: 309px;
+    width: 155px;
+    height: 101px;
+    border-radius: 10px;
+    border: solid gray;
+    background-color: white;
+    text-align: center;
+
+}
+.name-poke{
+    width: 155px;
+    height: 39px;
+    position: fixed;
+    top: 152px;
+    right: 58px;
+    color: yellow;
+    background-color: black;
+    border-radius: 3px;
+    border: solid white;
+    text-align:center;
+    padding-top:13px ;
+}
+.roca{
+    background-color: rgb(94, 45, 45);
+}
+.fuego{
+    background-color: rgb(236, 9, 9);
+}
+.volador{
+    background-color: rgb(152, 179, 201);
+}
+.normal{
+    background-color: rgb(228, 169, 163);
+}
+.agua{
+    background-color: rgb(48, 48, 199);
+}
+.hierba{
+    background-color: rgb(33, 151, 33);
+}
+.bicho{
+    background-color: rgb(18, 75, 18);
+}
+.electrico{
+    background-color: rgb(233, 233, 13);
+}
+.luchador{
+    background-color: tomato;
+}
+.dragon{
+    background-color: rgb(34, 133, 123);
+}
+.veneno{
+    background-color: rgb(87, 9, 87);
+}
+.acero{
+    background-color: rgb(124, 118, 118);
+}
+.psiquico{
+    background-color: rgb(180, 136, 180);
+}
+.hielo{
+    background-color: rgb(140, 175, 240);
+}
+.hada{
+    background-color: rgb(190, 72, 165);
+}
+.tierra{
+    background-color: brown;
+}
